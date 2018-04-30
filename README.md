@@ -1,3 +1,5 @@
+All code was sourced by Logan Wright. The Redux Simple Start is a boilerplate created by Stephen Grider. More of his information is found below.
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
